@@ -1,0 +1,11 @@
+{
+  "name": "lucasdev/mvc",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "app/Boot/Config.php"
+    ]
+  }
+}
